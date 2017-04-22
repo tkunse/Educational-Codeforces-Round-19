@@ -1,10 +1,3 @@
-/* 
- * File:   main.cpp
- * Author: dontsov
- *
- * Created on April 15, 2017, 6:15 PM
- */
-
 #include <iostream>
 #include <algorithm>
 #include <string>
